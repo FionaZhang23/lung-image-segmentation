@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project implements a deep learning-based segmentation model to classify suspicious regions in radiological images of human lungs. The model performs pixel-wise classification with 4 possible classes and is trained using historical lung scans labeled by radiologists.
+This project implements a multi-label classification segmentation model to classify suspicious regions in radiological images of human lungs. The model performs pixel-wise classification with 4 possible classes and is trained using historical lung scans labeled by radiologists.
 
 This work was completed as part of **CSC373/673: Data Mining (Spring 2025)** at Wake Forest University.
 
