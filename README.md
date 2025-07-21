@@ -60,3 +60,5 @@ output/                           # Model artifacts & results
 ├── image.png                     # Sample prediction visualization
 ├── label_distribution.png        # Label histogram or breakdown
 └── report.pdf                    # Project summary and methodology
+
+README.md                         # Project overview and instructions
